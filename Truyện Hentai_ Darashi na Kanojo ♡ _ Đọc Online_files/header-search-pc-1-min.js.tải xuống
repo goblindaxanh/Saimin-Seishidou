@@ -1,1 +1,0 @@
-$(function(){var a=$("#searchbox"),e=$("#header-search");a.change(function(){var a=$(this).find("option:selected").val();e.attr("action","/"+a)})});
